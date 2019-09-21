@@ -47,3 +47,18 @@ Fulfillment of tasks associated with Front web development - End, Backend, compl
     $result = php_number_count($string); // 6
     echo $result;
 
+#### ABOUT ME 
+I lead an active lifestyle, I have no bad habits, responsible, persistent, purposeful, fast learner, ability to work in a team, focus on results.
+
+#### CONTACTS
+PHONE:
+(033) 605 – 37 – 84 
+
+#### EMAIL:
+anton.rak.1996@mail.ru
+
+#### HOBBY
+* Programming
+* Cars
+* Sport
+* Music
