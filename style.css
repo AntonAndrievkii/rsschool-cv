@@ -1,0 +1,53 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.block_one{
+    max-width: 30%;
+    height: 1280px;
+    border-radius: 8%;
+    background: #C0C0C0;
+    margin: 20px;
+}
+.image img{
+width: 300px;
+margin-top: 92px;
+} 
+.image{
+    text-align: center;
+}
+.im h2{
+    padding: 0px;
+}
+.text{
+    margin: 35px;
+}
+.link{
+    color: #1c0518;
+    text-decoration: none;
+}
+.raz{
+    margin-bottom: 63px;
+}
+
+.block_two{
+    float: right;
+    width: 60%
+}
+.name{
+    margin-top: 186px;
+    font-size: 45px;
+    
+}
+.info{
+    font-weight: bold;
+    border-bottom: 3px double;
+    margin-top: 35px;
+    font-size: 20px;
+}
+.barsu{
+    margin-top: 18px;
+    font-style: oblique;
+    font-size: 18px;
+    margin-bottom: 13px;
+}
